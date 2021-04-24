@@ -7,7 +7,7 @@ Developed a REST API providing features for managing user profiles involving:
 - Managing feeds
 - Viewing other users' feeds
 
-## Tools and framewworks
+## Tools and frameworks
 - Python
 - Django REST framework
 - Git
