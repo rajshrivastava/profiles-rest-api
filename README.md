@@ -1,5 +1,10 @@
 # Profiles REST API
 
+- [Profiles REST API](#profiles-rest-api)
+  * [Overview](#overview)
+  * [Tools and frameworks](#tools-and-frameworks)
+  * [Process](#process)
+
 ## Overview
 Developed a REST API providing features for managing user profiles involving:
 - Creating new users
